@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git tracks changes of files.
  git commit -m "wrote a readme file" [master \(root-commit\) eaadf4e]
+ Creating a new branch is quick.
